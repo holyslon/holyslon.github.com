@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"connected()	bool"
+			],
+			[
+				"co",
+				"cout	ostream"
+			],
+			[
+				"has_",
+				"has_response() const	bool"
+			],
+			[
+				"Se",
+				"SerializeToArray(void *data, int size) const	bool"
+			],
+			[
+				"Si",
+				"ByteSize() const	int"
+			],
+			[
+				"Name",
+				"NameResponse	class"
+			],
+			[
+				"mu",
+				"mutable_response()	::NameResponse *"
+			],
+			[
+				"Pa",
+				"Package	class"
+			],
+			[
+				"pa",
+				"package	Package"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"re",
+				"read"
+			],
+			[
+				"te",
+				"template_string"
+			],
+			[
+				"fol",
+				"folder_name"
+			],
+			[
+				"me",
+				"makedirs  (function)"
+			],
+			[
+				"is",
+				"exists  (function)"
+			],
+			[
+				"gene",
+				"generate"
+			],
+			[
+				"ge",
+				"generated_files"
+			],
+			[
+				"sa",
+				"save_generated_files"
+			],
+			[
+				"pag",
+				"page"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"Pag",
+				"PageLoader"
+			],
+			[
+				"crea",
+				"create_template"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"templa",
+				"template_file"
+			],
+			[
+				"tex",
+				"text_in_markdown"
+			],
+			[
+				"rea",
+				"read_file"
+			],
+			[
+				"page_",
+				"page_file"
+			],
+			[
+				"a",
+				"assertEqual"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"Tes",
+				"TestCase  (class)"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"py",
+				"py_mod"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"su",
+				"summary"
+			],
+			[
+				"fa",
+				"failedCount"
+			],
+			[
+				"run",
+				"runCount"
+			],
+			[
+				"set",
+				"setUp"
+			],
+			[
+				"test",
+				"testMethod"
+			],
+			[
+				"wa",
+				"wasSetUp"
+			],
+			[
+				"TEst",
+				"TestCaseTest"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"ce",
+				"createScript"
+			],
+			[
+				"i",
+				"ife	if … else"
+			],
+			[
+				"in",
+				"innerText"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"W",
+				"wasRun"
+			],
+			[
+				"get",
+				"getOutput"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"A",
+				"add"
+			],
+			[
+				"ba",
+				"background	background-color: name"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"fil",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"file",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"Sublif",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"File",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"ope",
+				"Open File Navigator"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fi",
+				"Open File Navigator"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"open ",
+				"Open File Navigator"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"nav",
+				"Open File Navigator"
+			],
+			[
+				"files",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"fileS",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"Pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Pag",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"Add",
+				"Git: Add..."
+			],
+			[
+				"Comm",
+				"Git: Commit"
+			],
+			[
+				"GitA",
+				"Git: Add..."
+			],
+			[
+				"Set co",
+				"Set Syntax: Iced Coffee"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"set co",
+				"Set Syntax: Iced Coffee"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"CoffeS",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"Coff",
+				"Set Syntax: Iced Coffee"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"git s",
+				"Git: Stash Pop"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pli",
+				"Nodejs::Build Completions"
+			],
+			[
+				"term",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packege",
+				"Package Control: Install Package"
+			],
+			[
+				"oa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Dis",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anton/holyslon.github.com/index.html",
+		"/Users/anton/holyslon.github.com/CNAME",
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/anton/repos/kinisiforoltd.github.com",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"              <li class=\"\">\n                <a href=\"about.html\">About Company</a>\n              </li>",
+			"<a class=\"brand\" href=\"index.html\">Kinisiforo Ltd</a>",
+			"K-SET",
+			"K",
+			"SET",
+			"ExtConfig",
+			"settings",
+			"              <li class=\"\">\n                <a href=\"about.html\">About Company</a>\n              </li>",
+			"testTemplateMethod",
+			"()  ",
+			"run",
+			"javascript",
+			"type",
+			"maven",
+			"\"sys\"",
+			"sys",
+			"managedQuery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a class=\"brand\" href=\"index.html\">Home</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 120.0,
+	"status_bar_visible": true
+}
